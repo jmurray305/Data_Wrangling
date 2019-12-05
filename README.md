@@ -15,8 +15,8 @@ Week 7 - <br>
 Week 8 - <br>
 
 
-Git Large File Storage<br>
-Git Large File Storage (LFS) replaces large files with text pointer inside Git while sotreing the files contents on a remote server like GitHub.com<br>
+# Git Large File Storage
+### Git Large File Storage (LFS) replaces large files with text pointer inside Git while sotreing the files contents on a remote server like GitHub.com<br>
 1. Once per repositiory set up Git LFS and its hooks by running<br>
 <ul>
 <li> git lfs install </li>
