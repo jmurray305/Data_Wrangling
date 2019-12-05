@@ -9,8 +9,6 @@ Week 6 - Exploratory Data Analysis and Visualization<br>
 <ul> Seaborn - pair plots, Categorical plot, Pivot tables, Heatmap
 <ul>  Altair - Tidy Data, chart objects (marks and Encoding),Aggregation, Compound charts(layering, HConcat and VConcat)	
 <ul>  Bonus -- Creating a Dashboard with Altair and Panel
-		
-
 Week 7 - <br>
 Week 8 - <br>
 
