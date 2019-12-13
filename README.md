@@ -11,7 +11,7 @@ Week 6 - Exploratory Data Analysis and Visualization<br>
 	<li>  Altair - Tidy Data, chart objects (marks and Encoding),Aggregation, Compound charts(layering, HConcat and VConcat)</li>
 	<li>  Bonus -- Creating a Dashboard with Altair and Panel</li>
 </ul>
-Week 7 - <br>
+Week 7 - APIs  <br>
 Week 8 - <br>
 
 
