@@ -14,7 +14,7 @@ Week 6 - Exploratory Data Analysis and Visualization<br>
 	<li>  Bonus -- Creating a Dashboard with Altair and Panel</li>
 </ul>
 Week 7 - APIs  <br>
-Week 8 - <br>
+Week 8 - WebScraping with BS4 and Gazpacho <br>
 
 
 # Git Large File Storage
