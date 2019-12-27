@@ -1,3 +1,5 @@
+[![scraper: gazpacho](https://img.shields.io/badge/scraper-gazpacho-C6422C)](https://github.com/maxhumber/gazpacho)
+
 # Data_Wrangling
 Week 1 - Python Basics and Files <br>
 Week 2 - Working with Excel files <br>
